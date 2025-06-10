@@ -22,5 +22,6 @@
       }
     ]
   },
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "license": "MIT"
 }
