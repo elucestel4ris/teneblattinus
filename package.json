@@ -3,6 +3,10 @@
   "displayName": "Teneblattinus",
   "description": "Very dark purple theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elucestel4ris/teneblattinus"
+  },
   "engines": {
     "vscode": "^1.100.0"
   },
