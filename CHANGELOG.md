@@ -1,9 +1,4 @@
 # Change Log
 
-All notable changes to the "teneblattinus" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+* 0.1.1 - adjustes tab colors to make selected file stand out more
+* 0.1.0 - better(good) html and css color configuration
