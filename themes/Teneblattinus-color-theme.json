@@ -423,28 +423,35 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#5d3fff"
-			}
-		},
-		{
-			"name": "Arithmetic Operator",
-			"scope": [
-				"keyword.operator.arithmetic",
-				"keyword.operator.increment",
-				"keyword.operator.decrement"
-			],
-			"settings": {
 				"foreground": "#937fff"
 			}
 		},
 		{
-			"name": "assignment",
+			"name": "Assignment",
 			"scope": "keyword.operator.assignment",
 			"settings": {
-				"foreground": "#937fff",
 				"fontStyle": "bold"
 			}
-		},		
+		},
+		{
+			"name": "New and Delete",
+			"scope": "keyword.operator.new",
+			"settings": {
+				"foreground": "#5d3fff",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Logical and Relational Operators",
+			"scope": [
+				"keyword.operator.logical",
+				"keyword.operator.relational",
+				"keyword.operator.comparison"
+			],
+			"settings": {
+				"foreground": "#5d3fff",
+			}
+		},
 		{
 			"name": "Namespaces",
 			"scope": "entity.name.namespace",

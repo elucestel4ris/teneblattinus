@@ -1,5 +1,8 @@
 # Change Log
 
+* 1.0.1 - changes to the organization of "keyword.operator", and bold for new and delete
+    - changed "keyword.operator" to have the lighter version of the color; "keyword.operator.new" and "keyword.operator.logical" used to give new, delete and logical operators the darker version
+    - added bold to new and delete to improve their visibility
 * 1.0.0 - changed various tokens and some of their organization
     - selection unfocused color
     - changed namespaces to use italics
