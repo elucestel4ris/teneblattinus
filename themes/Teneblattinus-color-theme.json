@@ -434,8 +434,12 @@
 			}
 		},
 		{
-			"name": "New and Delete",
-			"scope": "keyword.operator.new",
+			"name": "New, Delete and Return",
+			"scope": [
+				"keyword.operator.new",
+				"keyword.operator.delete",
+				"keyword.control.return"
+			],
 			"settings": {
 				"foreground": "#5d3fff",
 				"fontStyle": "bold"
