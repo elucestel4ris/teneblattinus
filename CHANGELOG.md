@@ -1,6 +1,6 @@
 # Change Log
 
-* 1.0.2 - new, delete and return settings change
+* 1.1.0 - new, delete and return settings change
     - added the missing "keyword.operator.delete" in New and Delete
     - removed specific color for delete and new
     - added "keyword.control.return" to the new and delete keywords settings 
