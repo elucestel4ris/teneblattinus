@@ -1,5 +1,5 @@
 # Change Log
-
+* 1.1.1 - list.focusBackground transparency reduced to not show the same color for an unselected item as the selected items when it is focused after deselecting it 
 * 1.1.0 - new, delete and return settings change
     - added the missing "keyword.operator.delete" in New and Delete
     - removed specific color for delete and new

@@ -1713,7 +1713,7 @@
 		"tree.indentGuidesStroke": "#cac0ff60",
 		"list.dropBackground": "#57227f40",
 		"list.highlightForeground": "#b57fff",
-		"list.focusBackground": "#47007f80",
+		"list.focusBackground": "#47007f20",
 		"list.focusForeground": "#ffffff",
 		"listFilterWidget.background": "#653723",
 		"listFilterWidget.outline": "#00000000",
